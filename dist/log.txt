@@ -1,0 +1,46 @@
+Successfully set Game object size in class Game at line 63.
+SettingsLoader in class Game at line 72 successfully instantiated.
+SettingsLoader successfully loaded FPS.
+SettingsLoader successfully loaded MapSizeX.
+SettingsLoader successfully loaded MapSizeY.
+SettingsLoader successfully loaded Selector Thickness <settingsLoader.loadThickness()>.
+SettingsLoader successfully loaded seed: 100
+SettingsLoader successfully loaded all settings.
+Beginning terrain generation. MapGenerator.generateMapFromNoise()
+Starting terrain gen loop.
+Current Lowest: -1.1465517600130404
+Current highest 1.0117263333776747
+Board creation/initialization complete.
+Beginning resource generation process ------------------------------------------------------.
+Resource generation process complete.
+Creating a troop for Blue.
+Created settler.
+Creating a troop for Blue.
+Created settler.
+Creating a building for Blue.
+Starting to save the map
+./test.map
+Map file created successfully.
+IOException when saving the map.
+0, 0
+LOOK HERE. MY X: 828.0, Y: 630.0, District: 0
+Interacting with tile (12, 9). <ENTER action key started>
+LOOK HERE. MY X: 828.0, Y: 630.0, District: 0
+(828.0 < 832) || 828.0 > (832 + 300)
+630.0 < 400 || 630.0 > (400 + 300)
+Zooming Out. Scale: 0.75
+Zooming Out. Scale: 0.5
+Zooming Out. Scale: 0.25
+Zooming Out. Scale: 0.25
+Zooming Out. Scale: 0.25
+Zooming Out. Scale: 0.25
+Zooming Out. Scale: 0.25
+Zooming Out. Scale: 0.25
+Zooming Out. Scale: 0.25
+Zooming Out. Scale: 0.25
+Zooming Out. Scale: 0.25
+Starting to save the map
+./test.map
+Map file already exists.
+IOException when saving the map.
+0, 0

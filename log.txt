@@ -1,0 +1,140 @@
+Successfully set Game object size in class Game at line 63.
+SettingsLoader in class Game at line 66 successfully instantiated.
+SettingsLoader successfully loaded FPS.
+SettingsLoader successfully loaded MapSizeX.
+SettingsLoader successfully loaded MapSizeY.
+SettingsLoader successfully loaded Selector Thickness <settingsLoader.loadThickness()>.
+SettingsLoader successfully loaded all settings.
+Beginning terrain generation. MapGenerator.generateMapFromNoise()
+Starting terrain gen loop.
+Current Lowest: -1.1465517600130404
+Current highest 1.0117263333776747
+Board creation/initialization complete.
+Beginning resource generation process ------------------------------------------------------.
+Tile at 0, 0 has no resource. Beginning resourceIteration.
+Beginning resourceIteration at previous coords for biome: land, resource: trees.
+Finished resourceIteration recursion.
+Tile at 5, 0 has no resource. Beginning resourceIteration.
+Beginning resourceIteration at previous coords for biome: mountain, resource: gold + coal.
+Gold successfully generated at 1, 3
+Gold successfully generated at 3, 4
+Gold successfully generated at 5, 5
+Coal successfully generated at 12, 5
+Coal successfully generated at 18, 3
+Gold successfully generated at 18, 1
+Gold successfully generated at 17, 0
+Coal successfully generated at 14, 7
+Coal successfully generated at 16, 9
+Coal successfully generated at 12, 9
+Finished resourceIteration recursion.
+Tile at 9, 0 has no resource. Beginning resourceIteration.
+Beginning resourceIteration at previous coords for biome: land, resource: trees.
+Finished resourceIteration recursion.
+Tile at 18, 0 has no resource. Beginning resourceIteration.
+Beginning resourceIteration at previous coords for biome: land, resource: trees.
+Finished resourceIteration recursion.
+Tile at 21, 0 has no resource. Beginning resourceIteration.
+Beginning resourceIteration at previous coords for biome: land, resource: trees.
+Finished resourceIteration recursion.
+Tile at 25, 0 has no resource. Beginning resourceIteration.
+Beginning resourceIteration at previous coords for biome: land, resource: trees.
+Tree successfully generated at 26, 6
+Tree successfully generated at 25, 7
+Tree successfully generated at 7, 10
+Tree successfully generated at 5, 11
+Tree successfully generated at 19, 12
+Tree successfully generated at 25, 13
+Tree successfully generated at 28, 11
+Tree successfully generated at 32, 10
+Tree successfully generated at 28, 7
+Tree successfully generated at 37, 7
+Tree successfully generated at 39, 9
+Tree successfully generated at 43, 11
+Tree successfully generated at 57, 9
+Tree successfully generated at 61, 8
+Tree successfully generated at 52, 8
+Tree successfully generated at 51, 7
+Tree successfully generated at 76, 11
+Tree successfully generated at 69, 14
+Tree successfully generated at 67, 14
+Tree successfully generated at 68, 15
+Tree successfully generated at 82, 15
+Tree successfully generated at 83, 13
+Tree successfully generated at 91, 9
+Tree successfully generated at 116, 6
+Tree successfully generated at 104, 4
+Tree successfully generated at 100, 4
+Tree successfully generated at 113, 3
+Tree successfully generated at 107, 3
+Tree successfully generated at 104, 3
+Tree successfully generated at 98, 3
+Tree successfully generated at 96, 1
+Tree successfully generated at 98, 1
+Tree successfully generated at 109, 6
+Tree successfully generated at 100, 6
+Tree successfully generated at 92, 6
+Tree successfully generated at 106, 8
+Tree successfully generated at 94, 8
+Tree successfully generated at 97, 9
+Tree successfully generated at 96, 11
+Tree successfully generated at 107, 10
+Tree successfully generated at 116, 9
+Tree successfully generated at 118, 10
+Tree successfully generated at 104, 12
+Tree successfully generated at 105, 14
+Tree successfully generated at 101, 15
+Tree successfully generated at 111, 15
+Tree successfully generated at 113, 15
+Tree successfully generated at 89, 16
+Tree successfully generated at 84, 16
+Tree successfully generated at 78, 16
+Tree successfully generated at 96, 18
+Tree successfully generated at 98, 18
+Tree successfully generated at 111, 18
+Tree successfully generated at 115, 21
+Tree successfully generated at 149, 18
+Tree successfully generated at 138, 18
+Tree successfully generated at 136, 17
+Tree successfully generated at 143, 16
+Tree successfully generated at 129, 16
+Tree successfully generated at 143, 15
+Tree successfully generated at 140, 13
+Tree successfully generated at 141, 13
+Tree successfully generated at 135, 14
+Tree successfully generated at 144, 11
+Tree successfully generated at 148, 11
+Tree successfully generated at 144, 6
+Tree successfully generated at 143, 6
+Tree successfully generated at 137, 6
+Tree successfully generated at 136, 5
+Tree successfully generated at 139, 5
+Tree successfully generated at 142, 5
+Tree successfully generated at 138, 2
+Tree successfully generated at 136, 0
+Tree successfully generated at 142, 8
+Tree successfully generated at 147, 8
+Tree successfully generated at 145, 20
+Tree successfully generated at 142, 21
+Tree successfully generated at 145, 21
+Tree successfully generated at 142, 23
+Tree successfully generated at 142, 26
+Tree successfully generated at 116, 26
+Tree successfully generated at 117, 25
+Tree successfully generated at 124, 27
+Tree successfully generated at 130, 27
+Tree successfully generated at 139, 27
+Tree successfully generated at 137, 28
+Tree successfully generated at 118, 29
+Tree successfully generated at 125, 29
+Tree successfully generated at 131, 29
+Tree successfully generated at 134, 29
+Tree successfully generated at 138, 29
+Tree successfully generated at 139, 30
+Tree successfully generated at 144, 31
+Tree successfully generated at 143, 30
+Tree successfully generated at 121, 33
+Tree successfully generated at 134, 35
+Tree successfully generated at 130, 34
+Tree successfully generated at 129, 36
+Tree successfully generated at 123, 36
+Tree successfully generated at 122, 36
